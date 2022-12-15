@@ -27,6 +27,12 @@ h3 {
       font-size: 28px;
       text-align: center;
   }
+  #button-addon2{
+    margin-left: 20px;
+  }
+  .SearchForm_input__gdnf+{
+    padding: 11px;
+  }
 
 
 @media (max-width: 566px) {

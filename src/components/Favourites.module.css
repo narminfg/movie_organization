@@ -8,7 +8,7 @@
 }
 
 .btnSave, .link {
-  background-color: #23f33f;
+  background-color: #220a6a;
   border: none;
   border-radius: 5px;
   outline: none;
@@ -24,7 +24,7 @@
 }
 .btnSave:hover {
     cursor: pointer;
-    background-color: #25f748;
+    background-color: #220a6a;
 }
 
 .link {
